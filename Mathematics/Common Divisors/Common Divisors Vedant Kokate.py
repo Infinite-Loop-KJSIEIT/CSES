@@ -19,3 +19,4 @@ for i in range(1,10**6+1):
     if count>1 and i>m:
         m=i
 print(m)
+return(0)
