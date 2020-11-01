@@ -1,2 +1,1 @@
-N = int(input())
-print((2 ** N) % (1000000007))
+print((2 ** int(input())) % (1000000007))
